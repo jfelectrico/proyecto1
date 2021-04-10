@@ -23,6 +23,11 @@ body
     font-size: 0.8em;
 }
 
+#cabecera #logo{
+    width: 100px;
+    vertical-align: middle;
+}
+
 #container
 {
     width: 70%;
