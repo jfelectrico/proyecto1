@@ -5,3 +5,5 @@ José tiene 39 años. Nació en Barquisimeto, Venezuela.
 Su estatura es 1.68m
 
 Su peso es de 73 Kg.
+
+Es coordinador de proyectos en JF Eléctrico E.I.R.L.
