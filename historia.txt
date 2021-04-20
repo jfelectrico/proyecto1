@@ -6,4 +6,10 @@ Su estatura es 1.68m
 
 Su peso es de 73 Kg.
 
-Es coordinador de proyectos en JF Eléctrico E.I.R.L.
+
+Su profesión es ingeniero electricista.
+
+Es fundador de JF Eléctrico E.I.R.L.
+
+El cargo que desempeña es de coordinador de proyectos en JF Eléctrico E.I.R.L.
+
