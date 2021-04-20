@@ -13,3 +13,5 @@ Es fundador de JF Eléctrico E.I.R.L.
 
 El cargo que desempeña es de coordinador de proyectos en JF Eléctrico E.I.R.L.
 
+Esta es una modificación que hizo jfelectrico desde su Fork
+
